@@ -4,10 +4,3 @@
 # If the average is less than 50, “FAILED” on the screen, 50 and above, “PASSED” will be printed on the screen. 
 # This printing process is in 4 lessons. will be done and the lessons will be written one after the other.
 
-
-user_name =
-surname =
-student_number = 
-visa =
-final = 
-course = [math,physics,chemistry,biology]
